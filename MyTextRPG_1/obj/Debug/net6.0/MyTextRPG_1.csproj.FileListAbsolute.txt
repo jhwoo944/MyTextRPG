@@ -1,0 +1,14 @@
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\bin\Debug\net6.0\MyTextRPG_1.exe
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\bin\Debug\net6.0\MyTextRPG_1.deps.json
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\bin\Debug\net6.0\MyTextRPG_1.runtimeconfig.json
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\bin\Debug\net6.0\MyTextRPG_1.dll
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\bin\Debug\net6.0\MyTextRPG_1.pdb
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.AssemblyInfoInputs.cache
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.AssemblyInfo.cs
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.csproj.CoreCompileInputs.cache
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.dll
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\refint\MyTextRPG_1.dll
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.pdb
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\MyTextRPG_1.genruntimeconfig.cache
+C:\Users\tpffl\source\repos\Pre-Camp_Practice\MyTextRPG_1\obj\Debug\net6.0\ref\MyTextRPG_1.dll
